@@ -2,7 +2,7 @@ import Project from "./subcomp/Project";
 import ScrollReveal from "./ScrollReveal"; // Certifique-se de importar o ScrollReveal
 
 const projects = [
-    { src: "/psicology.png", titlle: "Landing page Odontológica", text: "- Página de contato feita com React e Tailwind com alta conversão", link:"https://gentle-soul-landing-page.vercel.app/" },
+    { src: "/psicology.png", titlle: "Landing page Psicologia", text: "- Página de contato feita com React e Tailwind com alta conversão", link:"https://gentle-soul-landing-page.vercel.app/" },
     { src: "/odonto.png", titlle: "Landing page Otontológica", text: "- Página de contato feita com React e Tailwind com alta conversão", link:"https://odonto-prime-web-space.vercel.app/" },
     { src: "/TAXXPAY.png", titlle: "Taxpay", text: "- Projeto profissional desenvolvido com Nuxt, Vue.js e Bootstrap", link:"https://taxxpay.com.br" },
     { src: "/CARDAPIO.png", titlle: "Cárdapio online", text: "- E-commerce web com integração de pedidos ao whatsapp", link:"https://beniciodeveloper.github.io/cardapio-online/" },
