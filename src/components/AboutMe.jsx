@@ -2,8 +2,8 @@ import Technology from "./subcomp/Technology";
 import ScrollReveal from "./ScrollReveal"; // Certifique-se de importar o ScrollReveal
 
 const images = [
-    { src: "/public/1-HTML.png", alt: "Imagem 1", name: "HTML" },
-    { src: "/public/2-CSS.png", alt: "Imagem 2", name: "CSS" },
+    { src: "./1-HTML.png", alt: "Imagem 1", name: "HTML" },
+    { src: "/2-CSS.png", alt: "Imagem 2", name: "CSS" },
     { src: "/public/3-JS.png", alt: "Imagem 3", style: "w-[70px] h-[70px]", name: "JavaScript" },
     { src: "/public/4-REACT.png", alt: "Imagem 4", style: "w-[80px] h-[80px]", name: "React" },
     { src: "/public/5-TAILWIND.png", alt: "Imagem 5", name: "Tailwind" },
