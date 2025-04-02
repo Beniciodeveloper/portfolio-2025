@@ -23,7 +23,7 @@ function Home() {
         </ScrollReveal>
 
         {/* Botões de redes sociais e download com animações */}
-        <div className="flex gap-5 mt-6 justify-center md:justify-start md:absolute bottom-43 lg:bottom-68">
+        <div className="flex gap-5 mt-6 justify-center md:justify-start md:absolute bottom-43 md:bottom-[250px] lg:bottom-68">
           {/* Animação de fade-in-up para o botão de download */}
           <ScrollReveal delay={300}>
             <a href="/curriculo_lucas_2025.pdf" download>
