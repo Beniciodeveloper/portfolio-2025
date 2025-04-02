@@ -17,17 +17,6 @@
 }
 
 
-.section {
-  @apply py-16 md:py-24 px-4 md:px-8 lg:px-16 max-w-7xl mx-auto;
-}
-
-.whatsapp-button {
-  @apply bg-green-500 hover:bg-green-600 text-white font-medium rounded-full px-6 py-3 shadow-md transition-all flex items-center gap-2 transform hover:scale-105;
-}
-
-.service-card {
-  @apply bg-white rounded-2xl p-6 shadow-md hover:shadow-lg transition-shadow border border-mint/20;
-}
 
 html {
   scroll-behavior: smooth;
