@@ -4,14 +4,14 @@ import ScrollReveal from "./ScrollReveal"; // Certifique-se de importar o Scroll
 const images = [
     { src: "./1-HTML.png", alt: "Imagem 1", name: "HTML" },
     { src: "/2-CSS.png", alt: "Imagem 2", name: "CSS" },
-    { src: "/public/3-JS.png", alt: "Imagem 3", style: "w-[70px] h-[70px]", name: "JavaScript" },
-    { src: "/public/4-REACT.png", alt: "Imagem 4", style: "w-[80px] h-[80px]", name: "React" },
-    { src: "/public/5-TAILWIND.png", alt: "Imagem 5", name: "Tailwind" },
-    { src: "/public/6-FIGMA.png", alt: "Imagem 6", style: "w-[70px] h-[70px]", name: "Figma" },
-    { src: "/public/7-BOOTSTRAP.png", alt: "Imagem 7", style: "w-[80px] h-[70px]", name: "Bootstrap" },
-    { src: "/public/8-GITHUB.png", alt: "Imagem 8", style: "w-[80px] h-[80px]", name: "GitHub" },
-    { src: "/public/SHOPIFY.png", alt: "Imagem 9", style: "w-[70px] h-[80px]", name: "Shopify" },
-    { src: "/public/WORDPRESS.png", alt: "Imagem 10", style: "w-[90px] h-[90px]", name: "WordPress" },
+    { src: "/3-JS.png", alt: "Imagem 3", style: "w-[70px] h-[70px]", name: "JavaScript" },
+    { src: "/4-REACT.png", alt: "Imagem 4", style: "w-[80px] h-[80px]", name: "React" },
+    { src: "/5-TAILWIND.png", alt: "Imagem 5", name: "Tailwind" },
+    { src: "/6-FIGMA.png", alt: "Imagem 6", style: "w-[70px] h-[70px]", name: "Figma" },
+    { src: "/7-BOOTSTRAP.png", alt: "Imagem 7", style: "w-[80px] h-[70px]", name: "Bootstrap" },
+    { src: "/8-GITHUB.png", alt: "Imagem 8", style: "w-[80px] h-[80px]", name: "GitHub" },
+    { src: "/SHOPIFY.png", alt: "Imagem 9", style: "w-[70px] h-[80px]", name: "Shopify" },
+    { src: "/WORDPRESS.png", alt: "Imagem 10", style: "w-[90px] h-[90px]", name: "WordPress" },
 ];
 
 function AboutMe() {
